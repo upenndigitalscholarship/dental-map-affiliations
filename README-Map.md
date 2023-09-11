@@ -38,5 +38,7 @@ After selecting the continent in Tab 2, you will have the opportunity to select 
 Rachel Liu
 xiner@upenn.edu
 
+## Notes from Applied Data Science Librarian 
 
+This project was in collaboration with Alonso Carrasco-Labra (carrascl@upenn.edu)
 
